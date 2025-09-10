@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeconnoisseur-channels
-- 👀 I’m interested in software engineering, backend development, product development, and open-source.
-- 🌱 I’m currently learning backend engineering at AltSchool Africa
+- 👀 I’m interested in software engineering, backend development, product management, and open-source.
+- 🌱 I’m currently learning backend engineering
 - 💞️ I’m looking to collaborate on backend engineering projects and open-source contributions. 
 - 📫 You can reach me via Email: channelsokunade@gmail.com X: @OladapoChannels
 - 😄 Pronouns: He/Him
